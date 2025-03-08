@@ -27,7 +27,8 @@ MongoDB para armazenamento de preferências (opcional)
 
 1. Clone o repositório:
 
-git clone https://github.com/AQUA0w0/Bot_musica/tree/main
+git clone 
+https://github.com/AQUA0w0/Bot_musica.git
 cd aquamusic
 
 
